@@ -4,6 +4,8 @@ import React, { Component } from 'react';
 // import ButtonGroupInJs from './demo3.js'
 // import StylingComponent from './demo4.js'
 // import ExtendStyleClass from './demo5.js'
+// import PropsAttach from './demo6.js'
+import KeyframsTest from './demo7.js'
 class App extends Component {
   render() {
     return (
@@ -13,6 +15,8 @@ class App extends Component {
         {/* <ButtonGroupInJs></ButtonGroupInJs> */}
         {/* <StylingComponent></StylingComponent> */}
         {/* <ExtendStyleClass></ExtendStyleClass> */}
+        {/* <PropsAttach></PropsAttach> */}
+        <KeyframsTest></KeyframsTest>
       </div>
     );
   }
