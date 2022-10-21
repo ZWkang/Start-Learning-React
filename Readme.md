@@ -1,1 +1,9 @@
-## maybe it's a simple project with koa
+## detail
+
+从 2018 年使用 react 至今，此内容为闲暇随意编写。
+
+所以很多非官方语，写到哪里算哪里，算是一个小小的笔记。
+
+闲散内容的记录，更多的内容肯定是记录在脑子里。
+
+keep learning !! 🤪
